@@ -1,3 +1,5 @@
 .idea
 **/.DS_Store
 !/pyproject.toml
+!/genai-ws/.env
+!/poetry.lock
