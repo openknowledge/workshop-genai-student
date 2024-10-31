@@ -1,11 +1,13 @@
-# workshop-genai-student
-Students material for a full day  hands-on workshop on GenAI
+# GenAI Workshop
+## Lesson 1: Hello GenAI World 
 
-TODOS:
-- siehe 01_google_gemini
-- übung: model=?, config=?, response=? <-- Implementieren wir zusammen. Gemini-Key setzen wir dafür zusammen
-- lösung: "?" sind ausgefüllt
-- Code-Anpassungen
-  - from google.colab import userdata
-  - api_key = userdata.get(gemini_secret_name)
-  - genai.configure(api_key=api_key)
+This example is intended to familiarise you with the Jupyter notebook environment. 
+
+In addition, we will build a simple first GenAi application. 
+
+To do this, we proceed in 4 steps:
+
+- Step 1: Set up the environment 
+- Step 2: Configure the genAI model 
+- Step 3: Set up the prompt
+- Step 4: Call the model
