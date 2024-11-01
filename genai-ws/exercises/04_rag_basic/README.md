@@ -1,23 +1,18 @@
-# workshop-genai-student
-Students material for a full day  hands-on workshop on GenAI
+# GenAI RAG Workshop
 
-TODO: 
-- siehe Naxchricht Lars (19.10, 13:14 Uhr)
-    "INGESTING-PIPELINE PREPARATION (1 mal)
-    ingesting initialization
-    Model selection
-    Parameter settings
-    INGESTING-PIPELINE (1 mal)
-    docs provisioning (aka laden und preprocessing der dokumente) -> docs
-    content chunking auf docs (splitter etc) -> chunks
-    chunk embedding -> aka create vecor store / retriever
-    RETRIEVAL-PIPELINE PREPARATION (1 mal)
-    retrieval initialization
-    System Prompt setting (Template)
-    Model Selection
-    Client Initialization
-    RETRIEVAL-PIPELINE (N mal):
-    retrieval with question -> relevant chunks
-    augmention for prompt / question -> prepared chain with prompt
-    generation  with relevant chunks & prompt / question via chain
-    Die fetten Punkte könnten dann jeweils einzelne Methoden / Funktionen sein."
+## Lesson 3: Introduction to GenAI with basic RAG
+
+This workshop guides you through building a GenAI application with Retrieval-Augmented Generation (RAG) capabilities.
+
+We will proceed through the following steps:
+
+- **Step 1:** Set up the environment
+- **Step 2:** Configure the genAI models
+- **Step 3:** Configure retriever
+- **Step 4:** Define RAG Building Blocks
+- **Step 5:** Create the ingestion pipeline
+- **Step 6:** Perform ingestion
+- **Step 7:** Create RAG pipeline
+- **Step 8:** Perform RAG
+
+Follow each step carefully to complete the setup and achieve a functional RAG pipeline.
