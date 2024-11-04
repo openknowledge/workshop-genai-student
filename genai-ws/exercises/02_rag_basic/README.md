@@ -2,7 +2,7 @@
 
 ## Lesson 3: Introduction to GenAI with basic RAG
 
-This workshop guides you through building a GenAI application with Retrieval-Augmented Generation (RAG) capabilities.
+This lesson guides you through building a GenAI application with Retrieval-Augmented Generation (RAG) capabilities.
 
 We will proceed through the following steps:
 
