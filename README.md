@@ -22,4 +22,5 @@ that can withstand the challenges of reality.
 
 ## Where can I find the corresponding slides?
 You will find the corresponding presentation on SpeakerDeck:
-* [From Zero to Production: Entwicklung einer eigenen GenAI Lösung](https://speakerdeck.com/mobilelarson/from-zero-to-production-entwicklung-einer-eigenen-genai-losung)
+* [From Zero to Production: Entwicklung einer eigenen GenAI Lösung (GERMAN)](https://speakerdeck.com/mobilelarson/from-zero-to-production-entwicklung-einer-eigenen-genai-losung)
+* [From Zero to Production: Development of your own GenAI solution (ENGLISH)](https://speakerdeck.com/mobilelarson/from-zero-to-production-build-your-own-genai-solution)
